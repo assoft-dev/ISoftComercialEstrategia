@@ -44,6 +44,9 @@
     <Compile Include="Controllers\ClientesControllers.cs" />
     <Compile Include="Controllers\FacturasControllers.cs" />
     <Compile Include="Controllers\Helps\XMLHelps.cs" />
+    <Compile Include="Controllers\IClienteRepository.cs" />
+    <Compile Include="Controllers\IFacturaRepository.cs" />
+    <Compile Include="Controllers\IGenericRepository.cs" />
     <Compile Include="Enum\FacturaTypos.cs" />
     <Compile Include="Models\ClientesModels.cs" />
     <Compile Include="Models\FacturaModels.cs" />
